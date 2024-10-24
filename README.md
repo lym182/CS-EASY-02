@@ -32,6 +32,9 @@
  - 解决各种图论问题。
 
 4.邻接矩阵和邻接表
+## 运行结果
+![9b89fe2e-0e70-424a-9a9b-47671ab25841](https://github.com/user-attachments/assets/9647f34a-b7fc-4170-aa6f-f530e5d30f34)
+![ff92f917-91d1-4629-8ede-6e8762a4e621](https://github.com/user-attachments/assets/ab8f6ae7-d500-48d0-b03c-7276616e9988)
 ## 代码
 ```
 #include <stdio.h>
